@@ -1,3 +1,11 @@
 main {
+    transform: skewY(-7deg);
+    display: block;
+    width: 100%;
+}
 
+.info {
+    transform: rotate(-5deg);
+    font-size: large;
+    padding-top: 250px;
 }
